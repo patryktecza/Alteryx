@@ -19,13 +19,12 @@ This workflow is designed to **automatically extract, clean, transform, and dist
 
 ---
 
-## ⚠️ Issues Resolved
+## ✅ Key Benefits
 
-- Raw GSAP tables often contain:
-  - Inconsistent field values
-  - Blank or duplicated entries
-  - Data requiring standardization before analysis
-- Previously manual process of filtering and emailing files to each team
+- Internal teams **no longer need to manually extract or filter data**
+- Each team **receives a ready-to-use report** with only the data they need
+- Reports include **clear next actions**, customized per recipient
+- Saves significant time and reduces manual errors
 
 ---
 
@@ -37,7 +36,7 @@ This workflow is designed to **automatically extract, clean, transform, and dist
 
 ---
 
-## ✅ Tools Used
+## 🛠️ Tools Used
 
 - **Alteryx Designer**
 - **Alteryx Server (Scheduler)**
